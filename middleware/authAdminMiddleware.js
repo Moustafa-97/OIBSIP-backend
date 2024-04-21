@@ -1,5 +1,4 @@
 const jwt = require("jsonwebtoken");
-// const dotnev = require("dotenv").config();
 const asyncHandler = require("express-async-handler");
 const { admin } = require("../models/Admin/AdminModel");
 
